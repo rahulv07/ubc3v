@@ -57,6 +57,14 @@ The progression in the dataset difficulty is particularly useful for curriculum 
 
 
 ## Dataset Structure
+
+The file naming conventions follow this format ```<object_name>_<unit>_<value>```
+
+Example:
+```Robin_m_0.1```
+```Bunny_cm_105```
+
+
 Each sub-dataset has its own *train*, *valid*, and *test* set, therefore, it is organized into three folders:
 
 * sub-dataset
